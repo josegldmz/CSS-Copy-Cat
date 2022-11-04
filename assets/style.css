@@ -39,6 +39,7 @@ body {
     
     .ipad-background {
         width: 50%;
+        margin:50px;
     }
     
     main {
@@ -46,26 +47,26 @@ body {
     }
     
     .ipad-quote {
-        border: solid black 3px;
         margin-right: 20em;
         width: 100%;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+        align-self: center;
     }
     
     .main-ipad {
-        color:gray;
+        color: black;
         font-size: 2em;
         margin: 0%;
+        text-align: center;
     }
     
     .quote-lines {
         font-size: 4em;
-        border: solid black 3px;
         margin: 0%;
     }
     
     .quote-footer {
         color: black;
         font-size: 2em;
+        text-align: center;
     }
